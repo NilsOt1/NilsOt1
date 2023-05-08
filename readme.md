@@ -4,7 +4,7 @@
 
 ## Angehender Webentwickler bei _neue Fische_
 
-Meine **Lernziele** für die nächsten 3 Monate:
+### Meine **Lernziele** für die nächsten 3 Monate:
 
 - HTML
 - CSS
@@ -13,7 +13,7 @@ Meine **Lernziele** für die nächsten 3 Monate:
 -
 
 
-Fortschritt:
+### Fortschritt:
 
 [x] Woche 1
 
