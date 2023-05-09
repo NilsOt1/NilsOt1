@@ -1,22 +1,20 @@
-# Moin moin, ich bin Nils
+# Moin moin, I‘m Nils
 
 ![Pflanze](https://user-images.githubusercontent.com/125801955/236850362-d1336789-fe62-4eea-8abc-2af267625983.png)
 
-## Angehender Webentwickler bei _neue Fische_
+## Aspiring Web Developer at _neueFische_
 
-### Meine **Lernziele** für die nächsten 3 Monate:
+### My goals for the next 3 months:
 
 - HTML
 - CSS
 - Javascript
--
--
 
 
-### Fortschritt:
+### Currently in:
 
-[x] Woche 1
+[x] week 1
 
-[ ] Woche 2
+[ ] week 2
 
-[ ] Woche 3
+[ ] week 3
