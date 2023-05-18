@@ -16,6 +16,6 @@
 
 [x] week 1
 
-[ ] week 2
+[x] week 2
 
 [ ] week 3
