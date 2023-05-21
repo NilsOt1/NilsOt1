@@ -18,4 +18,6 @@
 
 [x] week 2
 
-[ ] week 3
+[x] week 3
+
+[ ] week 4
