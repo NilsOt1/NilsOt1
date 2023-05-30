@@ -19,8 +19,9 @@
 
 ---
 ### Currently in:
-[  ] week 2
 
-[x] week 3
+[ ] week 3
 
-[  ] week 4
+[ x] week 4
+
+[ ] week 5
