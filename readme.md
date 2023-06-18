@@ -20,8 +20,8 @@
 ---
 ### Currently in:
 
-[ ] week 5
+[ ] week 6
 
-[ x] week 6
+[ x] week 7
 
-[ ] week 7
+[ ] week 8
