@@ -2,7 +2,11 @@
 
 Economist and social scientist with an unconventional path to software development. 
 
-Get in Touch
+
+
+<a href="https://linkedin.com/in/nils-otto-809665282"><img width="50" height="50" alt="LinkedIn" title="LinkedIn" src="linkedin.png" /></a>
+<a href="https://www.xing.com/profile/Nils_Otto7"><img width="50" height="50" alt="Xing" title="Xing" src="xing.png" /></a>
+
 
 
 
