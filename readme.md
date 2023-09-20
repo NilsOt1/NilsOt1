@@ -17,4 +17,6 @@ Economist and social scientist with an unconventional path to software developme
 
 
 ---
-### currently learning [react-redux](https://react-redux.js.org/)
+### currently 
+- diving deeper into javascript
+- learning [react-redux](https://react-redux.js.org/)
