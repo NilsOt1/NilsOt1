@@ -19,3 +19,4 @@ Economist and social scientist with an unconventional path to software developme
 ---
 ### currently 
 - diving deeper into javascript and react
+- preparing for my upcoming Java-Bootcamp
