@@ -15,8 +15,9 @@ Economist and social scientist with an unconventional path to software developme
 
  Check out my capstone project - [ColorUP](https://github.com/NilsOt1/capstone-nils)
 
+ ---
 
----
-### currently 
-- diving deeper into javascript and react
-- preparing for my upcoming Java-Bootcamp
+ ### Currently I'm learning Java at neueFische to have a solid Fullstack foundation
+
+
+
