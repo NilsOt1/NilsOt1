@@ -6,11 +6,11 @@ Economist and social scientist with an unconventional path to software developme
  🎓 Succesfully completed the Webdevelopment bootcamp at <a href="https://www.neuefische.de" target="_blank"> neueFische &nbsp;&nbsp;</a>
  </br>
  📚 Currently enrolled in Java Fullstack Bootcamp at <a href="https://www.neuefische.de" target="_blank"> neueFische &nbsp;&nbsp;</a>
-
+ </br>
 🔸 Check out my capstone project - [ColorUP](https://github.com/NilsOt1/Color-up-Capstone)
----
 
-### Skills:
+
+## Skills:
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML" src="https://img.shields.io/badge/-HTML-6D6968?style=for-the-badge&logo=html5&logoColor=E34F26" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS" src="https://img.shields.io/badge/-CSS-6D6968?style=for-the-badge&logo=css3&logoColor=1572B6" /></a>
@@ -33,7 +33,7 @@ Economist and social scientist with an unconventional path to software developme
 
 
  ## Get in touch
- </br>
+ 
  <a href="https://linkedin.com/in/nils-otto-809665282"><img width="50" height="50" alt="LinkedIn" title="LinkedIn" src="linkedin.png" /></a>
  <a href="https://www.xing.com/profile/Nils_Otto7"><img width="50" height="50" alt="Xing" title="Xing" src="xing.png" /></a>
 
