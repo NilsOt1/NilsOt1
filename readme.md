@@ -7,9 +7,7 @@ Economist and social scientist with an unconventional path to software developme
  </br>
  📚 Currently enrolled in Java Fullstack Bootcamp at <a href="https://www.neuefische.de" target="_blank"> neueFische &nbsp;&nbsp;</a>
 
-🔸 Check out my capstone project - [ColorUP](https://github.com/NilsOt1/capstone-nils) which I am currently revising and implementing a backend using Java and Spring Boot, a NoSQL database, and developing the frontend with TypeScript and React.
-I plan to finish by early February
-
+🔸 Check out my capstone project - [ColorUP](https://github.com/NilsOt1/Color-up-Capstone)
 ---
 
 ### Skills:
